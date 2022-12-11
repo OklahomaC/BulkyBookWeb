@@ -5,35 +5,71 @@
     <projectFile profileName="https">BolkyBookWeb/BolkyBookWeb.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13ec9ae6-8683-4299-9b53-2f6d600f0404" name="Changes" comment="" />
+    <list default="true" id="13ec9ae6-8683-4299-9b53-2f6d600f0404" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.BolkyBookWeb/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BolkyBookWeb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BolkyBookWeb/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/BulkyBookWeb.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/BulkyBookWeb.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/bin/Debug/net7.0/BulkyBookWeb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/bin/Debug/net7.0/BulkyBookWeb.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/bin/Debug/net7.0/BulkyBookWeb.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/bin/Debug/net7.0/BulkyBookWeb.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/obj/BulkyBookWeb.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/obj/BulkyBookWeb.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/obj/BulkyBookWeb.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/obj/BulkyBookWeb.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/obj/BulkyBookWeb.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/obj/BulkyBookWeb.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/obj/Debug/net7.0/BulkyBookWeb.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/obj/Debug/net7.0/BulkyBookWeb.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/obj/Debug/net7.0/BulkyBookWeb.RazorAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/obj/Debug/net7.0/BulkyBookWeb.RazorAssemblyInfo.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/obj/Debug/net7.0/BulkyBookWeb.RazorAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/obj/Debug/net7.0/BulkyBookWeb.RazorAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/obj/Debug/net7.0/BulkyBookWeb.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/obj/Debug/net7.0/BulkyBookWeb.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/obj/Debug/net7.0/BulkyBookWeb.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/obj/Debug/net7.0/BulkyBookWeb.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/obj/Debug/net7.0/apphost" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/obj/Debug/net7.0/apphost" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/obj/Debug/net7.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/obj/Debug/net7.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/obj/Debug/net7.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/obj/Debug/net7.0/staticwebassets.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/obj/Debug/net7.0/staticwebassets.pack.json" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/obj/Debug/net7.0/staticwebassets.pack.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBookWeb/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBookWeb/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BulkyBookWeb/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BulkyBookWeb/Controllers/RandomController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BulkyBookWeb/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BulkyBookWeb/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BulkyBookWeb/Views/Home/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BulkyBookWeb/Views/Random/IndexRandom.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BulkyBookWeb/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BulkyBookWeb/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BulkyBookWeb/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Ijmzq6JYz7doXx5p0V9WjTWd5j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "HotReloadSettingsPage",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;/Users/bondarenkooleksandr/Library/Application Support/JetBrains/Rider2022.3/resharper-host/DecompilerCache&quot;,
-      &quot;/Users/bondarenkooleksandr/Library/Application Support/JetBrains/Rider2022.3/resharper-host/SourcesCache&quot;,
-      &quot;/Users/bondarenkooleksandr/.local/share/Symbols/src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/bondarenkooleksandr/Library/Application Support/JetBrains/Rider2022.3/resharper-host/DecompilerCache",
+      "/Users/bondarenkooleksandr/Library/Application Support/JetBrains/Rider2022.3/resharper-host/SourcesCache",
+      "/Users/bondarenkooleksandr/.local/share/Symbols/src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.BolkyBookWeb: http">
     <configuration name="BolkyBookWeb: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/BulkyBookWeb/BulkyBookWeb.csproj" />
@@ -76,7 +112,7 @@
       <updated>1670703631924</updated>
       <workItem from="1670703633486" duration="566000" />
       <workItem from="1670760505094" duration="1647000" />
-      <workItem from="1670789610630" duration="2438000" />
+      <workItem from="1670789610630" duration="4526000" />
     </task>
     <servers />
   </component>
